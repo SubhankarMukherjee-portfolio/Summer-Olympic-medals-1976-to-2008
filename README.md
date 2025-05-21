@@ -2,7 +2,7 @@
 This SQL project analyzes historical Olympic Games data to uncover insights about athlete performance, country achievements, gender participation, and sport trends. It uses SQL queries to explore medal distributions, identify top performers, and track changes over time. The project emphasizes data quality by checking for null values and filtering meaningful results. Results can support visual dashboards and further analytics.
 
 ## Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Summer-Olympic-medals-1976-to-2008/blob/main/Summer-Olympic-medals-1976-to-2008.csv"
 
 ## Project Objective
 
@@ -13,7 +13,7 @@ Dataset =
 5) To track sport-wise medal trends and country dominance, revealing growth patterns and consistent performers.
 
 ## SQL File (MySQL)
-SQL File =
+SQL File = "https://github.com/SubhankarMukherjee-portfolio/Summer-Olympic-medals-1976-to-2008/blob/main/Olympics.sql"
 
 
 ## Questions solved
